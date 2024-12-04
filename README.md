@@ -1,4 +1,4 @@
-# tango-mssql
+# tango-saphana
 
 scadawire/tango-controls integration to SAP HANA Servers
 
